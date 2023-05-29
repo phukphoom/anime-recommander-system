@@ -1,5 +1,3 @@
-# Data-Analytics
-
 ![Reposize](https://img.shields.io/github/repo-size/phukphoom/anime-recommander-system)
 
 # **Anime Recommender System**
